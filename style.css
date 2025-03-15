@@ -1,0 +1,64 @@
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.nav_1{
+    display: flex;
+    justify-content: space-around;
+    background-color: #081621;
+}
+.item{
+    padding: 3px;
+    margin-top: 10px;
+}
+.nav_2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 8px;
+}
+.main_area{
+    width: 85%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.detail_area{
+    margin-top: 76px;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    padding: 10px;
+
+}
+
+.model{
+    margin-bottom: 17px;
+}
+a{
+    text-decoration: none;
+}
+.line{
+    width: 130px;
+
+}
+p{
+    padding: 10px;
+}
+.specification{
+    width: 85%;
+    margin: 0 auto;
+}
+.my_control{
+    width: 83%;
+    margin: 10px ;
+    color: #3749bb;
+    border-radius: 2px;
+    background-color: #F5F5FD;
+}
+table{
+    width: 95%;
+    margin: 0 auto;
+}
